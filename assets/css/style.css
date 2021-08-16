@@ -93,11 +93,20 @@ a:hover{
 }
 
 .introduction-content-wrapper p{
+    margin-top: 15px;
+    margin-right: 100px;
+    width: 40%;
+    float: right;
+    text-align: center;
+}
+
+.introduction-content-wrapper h2{
     margin-top: 120px;
     margin-right: 100px;
     width: 40%;
     float: right;
     text-align: center;
+
 }
 
 /* alan turing intro*/
@@ -125,13 +134,21 @@ a:hover{
 }
 
 .turing-content-wrapper p{
-    margin-top: 120px;
+    margin-top: 15px;
     margin-left: 100px;
     width: 40%;
     float: left;
     text-align: center;
 }
 
+.turing-content-wrapper h2{
+    margin-top: 120px;
+    margin-left: 100px;
+    width: 40%;
+    float: left;
+    text-align: center;
+
+}
 /* colossus intro styling */
 
 .colossus-content-wrapper{
@@ -155,6 +172,14 @@ a:hover{
 }
 
 .colossus-content-wrapper p{
+    margin-top: 15px;
+    margin-right: 100px;
+    width: 40%;
+    float: right;
+    text-align: center;
+}
+
+.colossus-content-wrapper h2{
     margin-top: 120px;
     margin-right: 100px;
     width: 40%;
