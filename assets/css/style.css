@@ -194,5 +194,35 @@ a:hover{
     background-color:rgba(124,127,109,255);
     height: 400px;
     width: 100%;
-    
+}
+
+.text-input-menu{
+    width: 100%;
+    display: block;
+}
+
+.text-input-comment{
+    width: 400px;
+    height: 200px;
+
+}
+
+#form-title{
+    padding-left: 10px;
+}
+
+#right-form-side{
+    padding-right: 600px;
+    padding-top: 100px;
+    float: right;
+    width: 200px;
+    height: 300px;
+}
+
+#left-form-side{
+    padding-left: 600px;
+    padding-top: 100px;
+    float: left;
+    width: 200px;
+    height: 300px;
 }
