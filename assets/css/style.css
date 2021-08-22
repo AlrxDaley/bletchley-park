@@ -212,19 +212,26 @@ a:hover{
 }
 
 #right-form-side{
-    padding-right: 600px;
-    padding-top: 100px;
+    padding-right: 30%;
+    padding-top: 5%;
     float: right;
     width: 200px;
     height: 300px;
 }
 
 #left-form-side{
-    padding-left: 600px;
-    padding-top: 100px;
+    padding-left: 30%;
+    padding-top: 5%;
     float: left;
     width: 200px;
     height: 300px;
+}
+
+
+/* footer styling */
+
+footer{
+    height: 40px;
 }
 
 /* map / find us page styling */
