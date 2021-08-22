@@ -1,15 +1,15 @@
       // Initialize and add the map
       function initMap() {
-        // The location of Uluru
-        const uluru = { lat: -25.344, lng: 131.036 };
-        // The map, centered at Uluru
+        // The location of bletchley
+        const bletchley = { lat: 51.99787108114173, lng: -0.7406433846536573 };
+        // The map, centered at bletchley
         const map = new google.maps.Map(document.getElementById("map"), {
-          zoom: 4,
-          center: uluru,
+          zoom: 10,
+          center: bletchley,
         });
-        // The marker, positioned at Uluru
+        // The marker, positioned at bletchley
         const marker = new google.maps.Marker({
-          position: uluru,
+          position: bletchley,
           map: map,
     });
 }
