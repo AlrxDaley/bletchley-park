@@ -1,0 +1,150 @@
+/* media queries for title 
+
+desktop - 1200px
+laptop - 1024px
+tablet- 768px
+phone - 480px
+
+*/
+
+@media screen and (max-width: 1200px) {
+
+    .title{
+        margin-top: -25% ;
+    }
+    
+}
+
+@media screen and (max-width:1024px) {
+
+    .title{
+        margin-top: -30%;
+        font-size: 35px;
+    }
+    
+}
+
+@media screen and (max-width:832px) {
+
+    .title{
+        margin-top: -45%;
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 591px) {
+
+        .title{
+            margin-top: -60%;
+            font-size: 25px;
+        }
+        
+}
+
+@media screen and (max-width: 375px) {
+
+    .title{
+        margin-top: -90%;
+        font-size: 25px;
+    }
+    
+}
+    
+
+/* media queries for header nav bar */
+
+@media screen and (max-width:375px) {
+    #header-nav ul{
+        float: none;
+    }
+
+    #header-nav li{
+        margin: 4px;
+    }
+    
+}
+
+/* media queries for introduction , alan turing and the colossus machine */
+
+@media screen and (max-width:1100px) {
+    /* introduction */
+    .introduction-content-wrapper{
+        height: 800px;
+    }
+
+    .introduction-content-wrapper img{
+        height: 50%;
+        width: 80%;
+        margin-left: 10%;
+    }
+
+    .introduction-content-wrapper p{
+        float: none;
+        margin-left: 30%;
+    }
+
+    .introduction-content-wrapper h2{
+        margin-top: 40px;
+        margin-right: 30%;
+    }
+
+    /* alan turing */
+
+    .turing-content-wrapper{
+        height: 800px;
+    }
+
+    .turing-content-wrapper img{
+        height: 40%;
+        width: 30%;
+        margin-right: 35%;
+        margin-left: 40%;
+    }
+
+    .turing-content-wrapper p{
+        float:none;
+        padding-top: 2%;
+        margin-left: 30%;
+        height: 50%;
+    }
+
+    .turing-content-wrapper h2{
+        float: none;
+        padding-top: 38%;
+        margin-left: 29%;
+    }
+    
+}
+
+@media screen and (max-width:763px) {
+    .introduction-content-wrapper p{
+        font-size: 13px;
+    }
+
+    .turing-content-wrapper img{
+        width: 250px;
+        margin-right:35%;
+    }
+    
+}
+
+@media screen and (max-width:510px) {
+    .introduction-content-wrapper p{
+        font-size: 10px;
+    }
+
+    .turing-content-wrapper img{
+        margin-left: 50%;
+        margin-right: 25%;
+    }
+}
+
+@media  screen and (max-width:375px) {
+    .introduction-content-wrapper img{
+        width: 100%;
+        margin-left: 2px;
+    }
+    .turing-content-wrapper img{
+        margin-right: 17%;
+    }
+}

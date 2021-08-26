@@ -42,43 +42,6 @@ img{
     background-color:rgba(170, 170, 170, 0.6);
 }
 
-/* media queries for title */
-
-@media screen and (max-width: 1200px) {
-
-    .title{
-        margin-top: -25% ;
-    }
-    
-}
-
-@media screen and (max-width:1023px) {
-
-    .title{
-        margin-top: -35%;
-        font-size: 35px;
-    }
-    
-}
-
-@media screen and (max-width:916px) {
-
-    .title{
-        margin-top: -45%;
-        font-size: 30px;
-    }
-
-@media screen and (max-width: 591px) {
-
-    .title{
-        margin-top: -60%;
-        font-size: 25px;
-    }
-    
-}
-    
-}
-
 /* nav bar styling*/
 
 #header-nav ul{
@@ -147,14 +110,6 @@ img{
 
 }
 
-@media screen and (max-width:  1075px) {
-    .introduction-content-wrapper img{
-        float: none;
-        
-        margin-right: 30%;
-    }
-}
-
 /* alan turing intro*/
 
 .turing-content-wrapper{
@@ -194,12 +149,6 @@ img{
     float: left;
     text-align: center;
 
-}
-
-@media screen and (max-width:1199px) {
-    .turing-content-wrapper img{
-        margin-right: 150px;
-    }
 }
 
 
