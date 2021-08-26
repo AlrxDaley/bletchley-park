@@ -21,6 +21,7 @@ phone - 480px
         margin-top: -30%;
         font-size: 35px;
     }
+
     
 }
 
@@ -106,6 +107,7 @@ phone - 480px
         padding-top: 2%;
         margin-left: 30%;
         height: 50%;
+        font-size: 15px;
     }
 
     .turing-content-wrapper h2{
@@ -125,21 +127,47 @@ phone - 480px
         width: 250px;
         margin-right:35%;
     }
+
+    .turing-content-wrapper p{
+        font-size: 10px;
+    }
+
+    .turing-content-wrapper h2{
+        padding-top:50%;
+    }
     
 }
 
 @media screen and (max-width:510px) {
     .introduction-content-wrapper p{
         font-size: 10px;
+        width: 50%;
     }
 
     .turing-content-wrapper img{
         margin-left: 50%;
         margin-right: 25%;
     }
+
+    .turing-content-wrapper h2{
+        margin-top: 10px;
+        padding-top:60%;
+    }
 }
 
 @media  screen and (max-width:375px) {
+
+    .introduction-content-wrapper p{
+        margin-left: 25%;
+    }
+
+    .introduction-content-wrapper h2{
+        margin-top: 10px;
+        margin-right: 25%;
+        width: 200px;
+        text-align: center;
+    }
+
     .introduction-content-wrapper img{
         width: 100%;
         margin-left: 2px;
