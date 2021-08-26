@@ -201,7 +201,7 @@
     /*turing*/
     .turing-content-wrapper img{
         margin-left: 50%;
-        margin-right: 25%;
+        margin-right: 17%;
     }
 
     .turing-content-wrapper h2{
@@ -258,7 +258,7 @@
     }
 }
 
-@media  screen and (max-width:375px) {
+@media  screen and (max-width:390px) {
     /* introduction */
     .introduction-content-wrapper p{
         font-size: 10px;
