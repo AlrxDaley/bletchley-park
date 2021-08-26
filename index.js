@@ -1,5 +1,5 @@
       
-      // link to where i got it from !!!!
+      // https://developers.google.com/maps/documentation/javascript/overview?hl=en_GB followed this tutorial to get the desried embeded map
       // Initialize and add the map
       function initMap() {
         // The location of bletchley

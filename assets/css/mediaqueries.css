@@ -1,11 +1,4 @@
-/* media queries for title 
-
-desktop - 1200px
-laptop - 1024px
-tablet- 768px
-phone - 480px
-
-*/
+/* media queries for title */
 
 @media screen and (max-width: 1200px) {
 
@@ -126,7 +119,7 @@ phone - 480px
         height: 800px;
     }
 
-    .colossus-content-wrapper img{
+    .colossus-content-wrapper iframe{
         margin-top: 20px;
         height: 50%;
         margin-left: 27%;
@@ -176,7 +169,7 @@ phone - 480px
     }
     
     /* colossus*/
-    .colossus-content-wrapper img{
+    .colossus-content-wrapper iframe{
         margin-left: 17%;
     }
 
@@ -220,7 +213,7 @@ phone - 480px
         font-size: 12px;
     }
     /* colossus*/
-    .colossus-content-wrapper img{
+    .colossus-content-wrapper iframe{
         margin:0;
         width: 100%;
     }
@@ -284,7 +277,7 @@ phone - 480px
         margin-left: 2px;
     }
     /*turing*/
-    .turing-content-wrapper img{
+    .turing-content-wrapper iframe{
         margin-right: 17%;
     }
 
