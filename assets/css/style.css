@@ -8,7 +8,7 @@ body{
 
 }
 
-img{
+#home-page-image{
     outline: 2px solid black;
 }
 
@@ -141,6 +141,7 @@ img{
     width: 40%;
     float: left;
     text-align: center;
+    color: white;
 }
 
 .turing-content-wrapper h2{
@@ -149,7 +150,7 @@ img{
     width: 40%;
     float: left;
     text-align: center;
-
+    color: white;
 }
 
 
@@ -193,6 +194,10 @@ img{
 
 /* form styling */
 
+label{
+    color: white;
+}
+
 .form-content-wrapper{
     margin-top: 60px;
     background-color:rgba(124,127,109,255);
@@ -216,7 +221,7 @@ img{
 }
 
 #right-form-side{
-    padding-right: 30%;
+    padding-right: 35%;
     padding-top: 5%;
     float: right;
     width: 200px;
@@ -260,7 +265,7 @@ footer{
 #map {
     height: 400px;
     width: 80%;
-    padding-top: 25px;
+    padding-top: 5%;
     margin-left: 10%;
     margin-top: 10%;
     border: 3px black solid;
