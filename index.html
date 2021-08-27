@@ -89,18 +89,20 @@ In 2007, a replica Colossus that British engineer Tony Sale and his team built t
 
         <h2  id="contact-us-title">Contact Us</h2>
 
-        <form action="index.html" method="POST" id="contact-us-form">
+        <form action="https://formdump.codeinstitute.net/" method="POST" id="contact-us-form">
             
             <div id="left-form-side">
 
                 <label for="fname" id="first-name-title">First Name:</label>
-                <input type="text" name="first_name" id="fname" class="text-input-menu" placeholder="Bob">
+                <input type="text" name="first_name" id="fname" class="text-input-menu" placeholder="Bob" required>
     
                 <label for="lname" id="last-name-title">Last Name:</label>
-                <input type="text" name="last_name" id="lname" class="text-input-menu" placeholder="Dylan">
+                <input type="text" name="last_name" id="lname" class="text-input-menu" placeholder="Dylan" required>
     
                 <label for="email" id="email-title">Email Address:</label>
-                <input type="email" name="email_address" id="email" class="text-input-menu" placeholder="BobDylan@gmail.com">
+                <input type="email" name="email_address" id="email" class="text-input-menu" placeholder="BobDylan@gmail.com" required>
+                
+                <input type="submit" value="submit" class="submit_button">
 
             </div>
             <div id="right-form-side">

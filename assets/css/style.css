@@ -198,6 +198,11 @@ h2{
 
 /* form styling */
 
+.submit_button{
+    margin-top: 5%;
+    margin-left: 35%;
+}
+
 #contact-us-title{
     padding-left: 45%;
     padding-top: 5%;
