@@ -258,7 +258,7 @@
     }
 }
 
-@media  screen and (max-width:390px) {
+@media  screen and (max-width:320px) {
     /* introduction */
     .introduction-content-wrapper p{
         font-size: 10px;
@@ -276,22 +276,28 @@
         width: 100%;
         margin-left: 2px;
     }
+
+    /*navigation*/
+    #header-nav ul{
+        padding-left: 8px;
+    }
+
     /*turing*/
-    .turing-content-wrapper iframe{
-        margin-right: 17%;
+    .turing-content-wrapper img{
+        margin-right: 10%;
     }
 
     .turing-content-wrapper p{
-        font-size: 10px;
+        font-size: 9px;
     }
     /* colossus*/
     .colossus-content-wrapper p{
-        font-size: 10px;
+        font-size: 9px;
     }
 
     /* contact us form */
     #left-form-side{
-        padding-left:30%;
+        padding-left:25%;
         width: 150px;
     }
 
@@ -301,13 +307,13 @@
 
     #right-form-side{
         padding-top: 10px;
-        padding-right: 23%;
+        padding-right: 20%;
     }
 
     /*footer*/
 
     #footer-nav li{
-        padding-left: 20%;
+        padding-left: 16%;
         padding-right: 15%;
         display: inline-block;
     }
