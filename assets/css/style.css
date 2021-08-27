@@ -12,6 +12,10 @@ body{
     outline: 2px solid black;
 }
 
+h2{
+    text-decoration: underline;
+}
+
 /* Title styling */
 .title-content-wrapper{
     width: 100%;
@@ -194,6 +198,12 @@ body{
 
 /* form styling */
 
+#contact-us-title{
+    padding-left: 45%;
+    padding-top: 5%;
+    color: white;
+}
+
 label{
     color: white;
 }
@@ -222,7 +232,7 @@ label{
 
 #right-form-side{
     padding-right: 35%;
-    padding-top: 5%;
+    padding-top: 1%;
     float: right;
     width: 200px;
     height: 300px;
@@ -230,7 +240,7 @@ label{
 
 #left-form-side{
     padding-left: 30%;
-    padding-top: 5%;
+    padding-top: 1%;
     float: left;
     width: 200px;
     height: 300px;
