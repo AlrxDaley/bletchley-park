@@ -8,7 +8,7 @@ body{
 
 }
 
-#home-page-image{
+.home-page-image{
     outline: 2px solid black;
 }
 
@@ -216,7 +216,7 @@ label{
 
 }
 
-#form-title{
+#first-name-title , #last-name-title , #email-title , #form-title{
     padding-left: 10px;
 }
 
