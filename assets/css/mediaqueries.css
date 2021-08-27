@@ -179,6 +179,10 @@
         padding-left: 10%;
     }
 
+    #contact-us-title{
+        padding-left: 43%;
+    }
+
     /* footer */
 
     #footer-nav li{
@@ -232,6 +236,14 @@
     #right-form-side{
         padding-top: 0;
         padding-right: 50%;
+    }
+
+    #contact-us-title{
+        padding-left: 40%;
+    }
+
+    .text-input-comment{
+        height: 150px;
     }
 
     /*footer*/
@@ -308,6 +320,10 @@
     #right-form-side{
         padding-top: 10px;
         padding-right: 20%;
+    }
+
+    #contact-us-title{
+        padding-left: 32%;
     }
 
     /*footer*/
