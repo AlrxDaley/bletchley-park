@@ -129,5 +129,15 @@
 <p>The live link cabe be found here - </p>
 
 <h2>Credits</h2>
-
-<h2>Media</h2>
+<h3>content</h3>
+<li>The text from introduction is from the wikipedia article - https://en.wikipedia.org/wiki/Hut_8</li>
+<li>The text from the alan turing section is from the wikipedia article - https://en.wikipedia.org/wiki/Alan_Turing</li>
+<li>The text from the colossus section is from the wikipedia article - https://en.wikipedia.org/wiki/Colossus_computer</li>
+<li>Instructions on how to implement the map feature was taken from the official google api guide - https://developers.google.com/maps/documentation/javascript/overview</li>
+<li>The footer icons were taken from font awsome</li>
+<br>
+<h3>Media</h3>
+<li>The title photo on the lading page is from this wikipedia article - https://en.wikipedia.org/wiki/Bletchley_Park</li>
+<li>The image for the introduction section is from this open source site -https://www.exploringsurreyspast.org.uk/themes/people/scientists/alan_turing/alan-turings-hut-at-bletchley-park-esp/</li>
+<li>The image used for the alan turing section is from thus wikipedia article - https://en.wikipedia.org/wiki/Alan_Turing</li>
+<li>The video used in the colossus section was taken from youtube with this url - https://www.youtube.com/embed/knXWMjIA59c?autoplay=1&mute=1</li>
